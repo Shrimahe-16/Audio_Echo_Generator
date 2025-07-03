@@ -47,12 +47,6 @@ Audio-Echo-Generation/
 2. Connect a USB flash drive with WAV files to the board's USB OTG port
 3. Ensure all jumpers are properly configured for audio operation
 
-### Software Setup
-1. Clone or download this repository
-2. Open the project in STM32CubeIDE
-3. Build the project and flash to the STM32F407G-DISC1 board
-4. The system is ready for operation after programming
-
 ## Usage
 
 ### Playback Control
@@ -90,6 +84,7 @@ The system successfully produces:
 - Real-time processing without audible artifacts
 - Stable playback of various WAV formats
 - Responsive user controls for effect customization
+
 ![alt text](image.png)
 
 ## References
