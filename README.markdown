@@ -97,4 +97,3 @@ The system successfully produces:
 - STM32F407 Reference Manual
 - STM32CubeF4 HAL Documentation
 - WAVE File Format Specification
-- Signals and Systems textbooks on convolution theory
